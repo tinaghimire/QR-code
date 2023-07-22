@@ -1,4 +1,5 @@
-# QR-code
+# QR Code Generator for CSV Data
+
 This code is a Python script that uses the `pandas` library to read data from a CSV file, generates QR codes for each row of data, and then saves the generated QR codes back to a new CSV file.
 
 Here's a step-by-step description of the code:
